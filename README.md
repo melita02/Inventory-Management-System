@@ -25,8 +25,5 @@ The system notifies the supplier of incoming orders as soon as they are placed b
 
 3.2 Software
 Technically, the system will run on any Operating System having Web Browser and XAMPP.
-(a) Development Tools:
 Front End: HTML, CSS, JavaScript
 Back End: MySQL, PHP
-(b) Operating System: Windows 10
-(c) Web Server: XAMPP and Localhost

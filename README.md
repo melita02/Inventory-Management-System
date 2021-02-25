@@ -11,6 +11,7 @@ The software has been developed using the most powerful and secured backend PHP 
 
 
 2. Features:
+
 This system will be providing the following:
 The system will provide a username & password enabled login to both the admin and the supplier of the inventory. 
 The system should allow the admin and the supplier the option to change their username or password.

@@ -23,16 +23,6 @@ The system notifies the supplier of incoming orders as soon as they are placed b
 
 3. System Environment
 
-3.1 Hardware
-The hardware environment consists of the following:
-CPU
-Mother Board
-Hard Disk Space
-Display
-Memory
-Other Devices
-
-
 3.2 Software
 Technically, the system will run on any Operating System having Web Browser and XAMPP.
 (a) Development Tools:

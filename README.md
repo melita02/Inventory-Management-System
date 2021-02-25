@@ -1,4 +1,4 @@
-#1. Problem objective 
+1. Problem objective 
 
 The objective of this system is to manage the items in an inventory such as tracking orders, placing orders to other suppliers and checking the items in the inventory. 
 The system allows the admin to maintain the items in the inventory. 
@@ -10,7 +10,7 @@ The software has been developed using the most powerful and secured backend PHP 
 
 
 
-#2. Features:
+2. Features:
 This system will be providing the following:
 The system will provide a username & password enabled login to both the admin and the supplier of the inventory. 
 The system should allow the admin and the supplier the option to change their username or password.
@@ -20,7 +20,7 @@ The system notifies the supplier of incoming orders as soon as they are placed b
 
 
 
-#3. System Environment
+3. System Environment
 
 3.1 Hardware
 The hardware environment consists of the following:

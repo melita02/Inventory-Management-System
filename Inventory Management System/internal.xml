@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE employeedetails [
+<!ELEMENT 
+employeedetails (employee)>
+<!ELEMENT Name of Students (#PCDATA)>
+<!ELEMENT RollNo (#PCDATA)>
+<!-- <!ELEMENT Website (#PCDATA)>
+<!ELEMENT Phone_no (#PCDATA)> -->
+
+]>
+<?xml-stylesheet type="text/xsl" href="b.xsl"?>
+<employeedetails>
+	<employee>
+		<Name_of_Student>Vinutha Chelamallu</Name_of_Student>
+		<RollNo>13</RollNo>
+		
+		
+		</employee>
+	</employeedetails>
+

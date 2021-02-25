@@ -1,0 +1,14 @@
+<?xml version="1.0"?> 
+<!DOCTYPE inventorysystem SYSTEM "c.dtd">
+<?xml-stylesheet type="text/xsl" href="b.xsl"?>
+<inventorysystem>
+	<item>
+
+
+		<I_Name>$_POST["slct2"]</I_Name>
+		<Color>$_POST["sizing"]</Color>
+		<Quantity>$_POST["quan"]</Quantity>
+		<Size>$_POST["vi"]</Size>
+		</item>
+
+</inventorysystem>
